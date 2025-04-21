@@ -1,0 +1,73 @@
+#a{
+    color: rgb(240, 240, 240);
+}
+ body{
+    background-image: url('bijuu.png');
+ }
+ #b{
+    color: rgb(210, 245, 13);
+ }
+ #c{
+    color:rgb(255, 255, 255)
+ }
+ /* .input-box{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: double;
+    border-color: blueviolet;
+ } */
+button{
+    background-color: rgb(221, 70, 171);
+}
+#s{
+   border-style: solid;
+    border-color: rgb(245, 23, 53);
+    border-radius: 10px;
+    width: 177px;
+
+}
+#n{
+   border-style: solid;
+    border-color: rgb(236, 27, 236);
+    border-radius: 10px;
+    width: 177px;
+
+}
+#h{
+   border-style: solid;
+    border-color: rgb(255, 30, 116);
+    border-radius: 10px;
+    width: 177px;
+
+}
+#biju{
+   padding-left: 600px;
+   padding-top: 1000;
+}
+#navbar{
+   height: 60px;
+   background-color: black;
+
+}
+#logo{
+   color: yellow;
+   padding-right: 260px;
+   width: 50px;
+   margin: 10px;
+  
+}
+#contact{
+   color: yellow;
+   padding-right: 190px;
+}
+#tt{
+   color:yellow;
+   padding-right: 190px;
+}
+#gg{
+   color:yellow;
+   padding-right: 190px;
+}
+#bb{
+   color: aliceblue;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url('sandhyaa.png');
+}
+#d{
+    color: rgb(223, 255, 43);
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+a{
+    text-decoration: mediumslateblue;
+    color: rgb(250, 235, 22);
+    text-size-adjust: 30;
+    text-decoration: underline;
+}
+img{
+    width: 50;
+    height: auto;
+    object-fit: cover;
+}
+a{
+    color: red;
+}
